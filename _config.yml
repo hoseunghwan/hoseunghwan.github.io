@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 승환's 블로그
+description: blog of seunghwanho made from github&0pe
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://developstudio.0pe.kr/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
+   github: hoseunghwan
    twitter: brianmaierjr
    facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   email: andyho0124@gmail.com
 
 google_analytics: "UA-58263416-1"
