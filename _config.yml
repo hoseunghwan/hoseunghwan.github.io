@@ -14,15 +14,10 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
-
+# - title: About
+#   url: /about
 social:
-   github: hoseunghwan
-   twitter: brianmaierjr
-   facebook: brianmaierjr
+   github: hoseunghwan.github.io
+   instagram: https://www.instagram.com/seunghwanho/
+   facebook: https://www.facebook.com/profile.php?id=100004787835087&ref=bookmarks
    email: andyho0124@gmail.com
-
-google_analytics: "UA-58263416-1"
