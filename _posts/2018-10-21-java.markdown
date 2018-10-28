@@ -1,11 +1,12 @@
 # Java
+
 ## About Java
 
 Java는 Sun Microsystems가 1995년에 처음 출시한 프로그래밍 언어이자 컴퓨팅 플랫폼으로, 수 많은 응용 프로그램 및 웹 사이트가 Java를 설치하지 않으면 작동되지 않으며, 이 수는 매일 늘어나고 있습니다. Java는 빠르고, 안전하며, 안정적입니다. 랩톱에서 데이터 센터, 게임 콘솔에서 과학용 수퍼 컴퓨터, 휴대 전화에서 인터넷에 이르기까지 Java 기술은 어디에나 존재합니다.
 출처 : java.com
 ## Download Java
 Java는 java.com 에서 최신 버전을 다운로드 할 수 있습니다.
-![대체 텍스트(alternative text)를 입력하세요!](https://www.java.com/ga/images/ko/java_welcome.jpg)
+![](https://www.java.com/ga/images/ko/java_welcome.jpg)
 ![](https://www.java.com/ga/images/ko/java_finish.jpg)
 oracle.com 에 접속하여 Java SE JRE를 다운로드할 수 있습니다.
 ![](https://www.oracle.com/webfolder/s/brand/assets/i/specimens/identity/logo/primary-badge.gif)
