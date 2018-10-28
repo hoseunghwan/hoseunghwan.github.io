@@ -14,7 +14,7 @@ markdown
 G macro
 ![]()
 <hr/>
-##Games
+## Games
 Clash of Clans : trophy3391/Town Hall Lv.10/nickname(Jasper)
 Clash Royal : trophy4158/KingTower Lv.11/nickname(독도는 우리땅!)
 Player Unknown Battle Grounds : nickname(fXXX_nickname)
